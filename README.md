@@ -40,9 +40,4 @@ I'm a **mobile app developer** passionate about building beautiful, performant, 
 
 ### 🤝 Let’s Collaborate!
 
-I’m always open to:
-- Contributing to open source projects
-- Collaborating on side projects
-- Sharing and learning from the dev community
-
 Check out some of my featured repositories below 👇  
